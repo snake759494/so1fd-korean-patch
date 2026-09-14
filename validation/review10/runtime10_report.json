@@ -1,0 +1,26 @@
+{
+  "iso_sha256": "3dc5acf84ce56927199d2e9c14ead14aaed89305e88486febb96154766c9dbf7",
+  "levelup_names_passed": [
+    "라티크스",
+    "밀리",
+    "돈"
+  ],
+  "spell_learning_message": "PASS",
+  "return_to_field_after_levelup": "PASS",
+  "emulator": "PPSSPP 1.17.1 isolated portable test copy",
+  "loaded_state": "review09/after_first_battle.ppst",
+  "runtime_memory_writes": false,
+  "loaded_table1709_matches_iso": true,
+  "prior_state_limitation": "Fixture state predates battle HUD hook: its HUD displays ABCD/EF/G. Release 10 BOOT/EBOOT are byte-identical to final Review 09 whose new-game Hangul HUD passed. The changed message text/font blocks were reloaded from Review 10 and matched in memory.",
+  "screenshots": [
+    "reported_levelup_12.jpg",
+    "reported_levelup_13.jpg",
+    "reported_levelup_14.jpg",
+    "levelup_ratix.png",
+    "levelup_milly.png",
+    "levelup_dorn.png",
+    "skill_learned.png",
+    "post_levelup.png"
+  ],
+  "full_game_all_routes_playtested": false
+}

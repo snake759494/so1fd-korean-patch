@@ -1,0 +1,216 @@
+{
+  "tests": [
+    {
+      "member": 10,
+      "name": "라티크스",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "밀리",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "돈",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "로닉스",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "시우스",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "이리아",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "요슈아",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "피아",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "마벨",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "아슈레이",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "티니크",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "페리시",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "웰치",
+      "result": "PASS"
+    },
+    {
+      "member": 10,
+      "name": "에리스",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "라티크스",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "밀리",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "돈",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "로닉스",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "시우스",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "이리아",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "요슈아",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "피아",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "마벨",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "아슈레이",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "티니크",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "페리시",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "웰치",
+      "result": "PASS"
+    },
+    {
+      "member": 1709,
+      "name": "에리스",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "라티크스",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "밀리",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "돈",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "로닉스",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "시우스",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "이리아",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "요슈아",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "피아",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "마벨",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "아슈레이",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "티니크",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "페리시",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "웰치",
+      "result": "PASS"
+    },
+    {
+      "member": 3320,
+      "name": "에리스",
+      "result": "PASS"
+    }
+  ],
+  "errors": [],
+  "note": "All 14 names tested against actual converter slots 241..264 in each of the 3 rebuilt common table fonts."
+}

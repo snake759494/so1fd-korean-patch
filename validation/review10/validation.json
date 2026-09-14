@@ -1,0 +1,12 @@
+{
+  "iso": "<LOCAL_WORKSPACE>\\Star Ocean - First Departure (Korean Review 10).iso",
+  "sha256": "3dc5acf84ce56927199d2e9c14ead14aaed89305e88486febb96154766c9dbf7",
+  "iso_bytes": 1162182656,
+  "field_banks_audited": 974,
+  "outside_patched_ranges": "IDENTICAL",
+  "outside_bytes": 794011212,
+  "delta_roundtrip": "PASS",
+  "delta_bytes": 50426566,
+  "runtime": "Runtime10 must be checked against this exact hash separately",
+  "translation_quality": "8730 whole-message reviews; menus, layout and runtime require separate quality verification"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "version": "old",
+    "part": "text",
+    "address": null,
+    "bytes": 25421
+  },
+  {
+    "version": "old",
+    "part": "font",
+    "address": null,
+    "bytes": 25108
+  },
+  {
+    "version": "new",
+    "part": "text",
+    "address": "0x9732ac0",
+    "bytes": 25421
+  },
+  {
+    "version": "new",
+    "part": "font",
+    "address": "0x9738e40",
+    "bytes": 25208
+  }
+]

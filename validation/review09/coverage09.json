@@ -1,0 +1,20 @@
+{
+  "version": "Korean Review 09",
+  "reviewed_unique_dialogues": 8730,
+  "reviewed_colored_dialogues": 2113,
+  "reviewed_unique_menu_table_strings": 2484,
+  "reviewed_unique_descriptions": 1175,
+  "description_rows": 1589,
+  "item_title_images_audited": 1589,
+  "item_title_images_changed": 1399,
+  "field_banks": 974,
+  "field_rows": 133945,
+  "menu_banks": 16,
+  "table_rows": 3559,
+  "default_korean_character_names": 14,
+  "subtitle_movies": 7,
+  "subtitle_cues": 93,
+  "iso_sha256": "c5cc98e4ca9f54cd336dfb18a371b8f27eb5d348c2b6acfd2fd3f01289113ec8",
+  "full_game_all_routes_playtested": false,
+  "runtime_report": "runtime09_report.json"
+}

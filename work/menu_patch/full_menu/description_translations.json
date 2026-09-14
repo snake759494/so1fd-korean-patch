@@ -1,0 +1,44 @@
+[
+  {
+    "offset": 2529280,
+    "korean": "길이1미터의 일반적인 검",
+    "font_before": 16,
+    "font_after": 16
+  },
+  {
+    "offset": 2867200,
+    "korean": "나무를 깎아 만든 평범한 지팡이",
+    "font_before": 16,
+    "font_after": 16
+  },
+  {
+    "offset": 3368960,
+    "korean": "동물 가죽으로 만든{8080}간단한 갑옷",
+    "font_before": 16,
+    "font_after": 16
+  },
+  {
+    "offset": 3391488,
+    "korean": "문장술사가 즐겨 입는 수수한 옷",
+    "font_before": 16,
+    "font_after": 16
+  },
+  {
+    "offset": 3524608,
+    "korean": "나무로 만든 간단한 방패",
+    "font_before": 12,
+    "font_after": 12
+  },
+  {
+    "offset": 3629056,
+    "korean": "나무로 만든 간단한 샌들",
+    "font_before": 16,
+    "font_after": 16
+  },
+  {
+    "offset": 3633152,
+    "korean": "동물 가죽으로 만든 간단한 각반",
+    "font_before": 16,
+    "font_after": 16
+  }
+]

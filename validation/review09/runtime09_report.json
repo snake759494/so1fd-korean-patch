@@ -1,0 +1,102 @@
+{
+  "final_iso_sha256": "c5cc98e4ca9f54cd336dfb18a371b8f27eb5d348c2b6acfd2fd3f01289113ec8",
+  "release_smoke_pass": true,
+  "emulator": "PPSSPP 1.17.1 Windows x64",
+  "final_run": {
+    "cold_boot": true,
+    "loaded_savestate": false,
+    "runtime_memory_modifications": false,
+    "passed": [
+      "title",
+      "new_game_default_korean_name",
+      "opening_movie_subtitles",
+      "Shina_dialogue",
+      "Milly_father_house_entry_dialogue_exit",
+      "guardhouse_raid_event",
+      "first_battle_Hangul_names_Ratix_Milly_Dorn",
+      "first_battle_victory_and_return_to_village"
+    ],
+    "screenshots": [
+      "boot_hook_title.png",
+      "boot_hook_name.png",
+      "boot_hook_story.png",
+      "boot_hook_battle_hangul.png",
+      "boot_hook_victory.png",
+      "boot_hook_after_battle.png"
+    ]
+  },
+  "carried_tests": {
+    "note": "Earlier ISO component tests retained only for resources proven unchanged by the attached build-diff reports.",
+    "reports": [
+      "runtime_before_layout.json",
+      "layout_only_build_diff.json",
+      "battle_only_build_diff.json",
+      "battle_hook_build_diff.json"
+    ],
+    "layout_fix_iso_sha256": "1feb48fe732422fc6602181551092ffa039a2bcb4711e6af2052c24343fa41ce",
+    "menu_shop_item_iso_sha256": "21e72c7b504a6924e35c759badb9fa70c5225136de8968b6782681d957a23e51",
+    "screenshots": [
+      "final_mainmenu.png",
+      "final_status.png",
+      "final_milly.png",
+      "final_dorn.png",
+      "final_chest_color.png",
+      "final_item_detail.png",
+      "final_weapon_shop.png",
+      "final_weapon_talk.png",
+      "final_weapon_exit.png",
+      "final_tool_shop.png",
+      "final_tool_talk.png",
+      "final_tool_exit.png",
+      "final_food_colored.png",
+      "final_food_exit.png",
+      "release_mother_fixed.png",
+      "release_food_fixed.png",
+      "release_food_color.png",
+      "release_food_short.png",
+      "release_milly_father.png"
+    ]
+  },
+  "name_fixtures": {
+    "count": 14,
+    "note": "Prior name-editor memory fixtures verify glyph coverage; not all recruitment branches."
+  },
+  "resolved_issues": [
+    "Mother/food-shop punctuation and line breaks",
+    "Battle HUD uppercase alias conversion and separate battle atlas"
+  ],
+  "excluded_failed_fixture": "The temporary runtime hook test used an incorrect extra-ELF file-offset mapping and crashed. Discarded. Final cold run has no such memory edits.",
+  "full_game_all_routes_playtested": false,
+  "limitations": [
+    "All routes, endings and companion combinations have not been played through.",
+    "No claim of flawless line wrapping in every event.",
+    "Custom input alphabets and Japanese voice audio remain."
+  ],
+  "screenshots": [
+    "boot_hook_title.png",
+    "boot_hook_name.png",
+    "boot_hook_story.png",
+    "boot_hook_battle_hangul.png",
+    "boot_hook_victory.png",
+    "boot_hook_after_battle.png",
+    "final_mainmenu.png",
+    "final_status.png",
+    "final_milly.png",
+    "final_dorn.png",
+    "final_chest_color.png",
+    "final_item_detail.png",
+    "final_weapon_shop.png",
+    "final_weapon_talk.png",
+    "final_weapon_exit.png",
+    "final_tool_shop.png",
+    "final_tool_talk.png",
+    "final_tool_exit.png",
+    "final_food_colored.png",
+    "final_food_exit.png",
+    "release_mother_fixed.png",
+    "release_food_fixed.png",
+    "release_food_color.png",
+    "release_food_short.png",
+    "release_milly_father.png"
+  ]
+}

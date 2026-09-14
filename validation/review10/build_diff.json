@@ -1,0 +1,28 @@
+{
+  "base_iso_sha256": "c5cc98e4ca9f54cd336dfb18a371b8f27eb5d348c2b6acfd2fd3f01289113ec8",
+  "changed": [
+    {
+      "offset": 115193856,
+      "size": 43008,
+      "sha256": "2445806d257c9145f1d73d54889de73f10150cac915fc96f3efc236bffe5c404",
+      "member": 10,
+      "file": "<LOCAL_WORKSPACE>\\work\\full_patch\\members\\member10_korean.bin"
+    },
+    {
+      "offset": 158691328,
+      "size": 32880,
+      "sha256": "9d014e93847716c2282936b46b7e71dadb888e57588ba9c9922c24b9467525f8",
+      "member": 1709,
+      "file": "<LOCAL_WORKSPACE>\\work\\full_patch\\members\\member1709_korean.bin"
+    },
+    {
+      "offset": 448536576,
+      "size": 28680,
+      "sha256": "3f6a1dfbfac13083a1e4156093f08bf2079a50c8005576d27efe43ab7db6977e",
+      "member": 3320,
+      "file": "<LOCAL_WORKSPACE>\\work\\full_patch\\members\\member3320_korean.bin"
+    }
+  ],
+  "unchanged_chunks": 1010,
+  "executable_unchanged": true
+}
