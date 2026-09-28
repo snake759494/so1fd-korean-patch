@@ -1,0 +1,13 @@
+{
+  "loaded_segments_byte_identical": true,
+  "program_header_offset": 52,
+  "section_count": 24,
+  "module_info_offset": 2042880,
+  "elf_bytes": 2243732,
+  "hardware_verified": false,
+  "iso_sha256": "a584ddddc23f50d3927f1a5b0c159e5a04a415a8a13acd325c965bea55d93b08",
+  "patch_sha256": "b3de706f0e6ee727749d992b355d806ba9fc1ea8e3825e2058ea51ad6c09d508",
+  "patch_bytes": 50426819,
+  "delta_roundtrip": true,
+  "outside_executables_and_directory_sizes": "IDENTICAL"
+}

@@ -1,5 +1,7 @@
 # 스타 오션 First Departure PSP 한글패치
 
+> **PSP-3000 실행 실패 보고 (#1):** 실기 로더 호환성 개선 후보 [Review 11 RC1](https://github.com/snake759494/so1fd-korean-patch/releases/tag/v0.11-rc1)을 시험판으로 제공합니다. 실기 성공은 아직 확인되지 않았으며 정식 최신판은 Review 10입니다. [조사·변경 내용](docs/ISSUE_1_PSP_LOADER.md)을 확인하세요. 아래 Review 10 전용 자동 적용 도구와 결과 해시는 RC1에 사용하지 마세요. RC1은 해당 릴리즈의 해시와 일반 xdelta 적용 방법을 사용합니다.
+
 일본판 PSP **STAR OCEAN First Departure (ULJM05290)**용 비공식 한국어 패치입니다. 현재 배포판은 **Korean Review 10**입니다. 대사, 메뉴, 아이템 설명, 캐릭터 기본 이름과 영상 자막을 한국어로 표시하도록 번역 데이터와 글꼴, 일부 실행 코드를 수정했습니다.
 
 [최신 xdelta 다운로드](https://github.com/snake759494/so1fd-korean-patch/releases/latest) · [작업 및 기술 설명](docs/TECHNICAL.md) · [개발 소스 안내](docs/BUILD.md) · [변경 기록](CHANGELOG.md)

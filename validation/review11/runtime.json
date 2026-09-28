@@ -1,0 +1,10 @@
+{
+  "iso_sha256": "a584ddddc23f50d3927f1a5b0c159e5a04a415a8a13acd325c965bea55d93b08",
+  "emulator": "PPSSPP 1.17.1 isolated portable copy",
+  "cold_boot_to_intro_movie": true,
+  "save_state_loaded": false,
+  "memory_writes": false,
+  "hardware_verified": false,
+  "new_game_progression_verified": false,
+  "note": "Intro screenshot inspected locally. Later title-capture attempt stalled in debugger stepping and was stopped; not counted as a passed test."
+}
